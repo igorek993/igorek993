@@ -9,7 +9,7 @@
 <p>&#9989; SQL</p>
 <p>My plans for this/next (2020-2021) year unless I get a job offer so I have to work on something else: </p>
 <p>&#10069; More of Django/Flask as I just started</p>
-<p>&#10069; AWS cloud services with AWS re/Start program that I am currently enrolled in</p>
+<p>&#10069; AWS cloud services with AWS re/Start program that I am currently enrolled in (become AWS Certified Cloud Practitioner)</p>
 <p>&#10069; CI/CD Pipeline</p>
 <p>&#10069; Docker</p>
 
