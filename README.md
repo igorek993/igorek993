@@ -12,6 +12,5 @@ My plans for this/next (2020-2021) year unless I get a job offer so I have to wo
 <p>&#10069; AWS cloud services with AWS re/Start program that I am currently enrolled in</p>
 <p>&#10069; CI/CD Pipeline</p>
 <p>&#10069; Docker</p>
-<p>&#10069; RESTfull api</p>
 
 <p>Enough plans for now... let me deal with all this first &#10003; </p>
