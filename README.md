@@ -7,9 +7,7 @@
 <p>&#9989; Django/Flask</p>
 <p>&#9989; Linux</p>
 <p>&#9989; SQL</p>
-<br>
-My plans for this/next (2020-2021) year unless I get a job offer so I have to work on something else:
-<br>
+<p>My plans for this/next (2020-2021) year unless I get a job offer so I have to work on something else: </p>
 <p>&#10069; More of Django/Flask as I just started</p>
 <p>&#10069; AWS cloud services with AWS re/Start program that I am currently enrolled in</p>
 <p>&#10069; CI/CD Pipeline</p>
